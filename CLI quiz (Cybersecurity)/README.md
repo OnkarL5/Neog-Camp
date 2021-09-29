@@ -1,4 +1,6 @@
-## A CLI quiz on cybersecurity using node.js.
+# A CLI quiz on cybersecurity using node.js.
+
+## Mark 2
 
 ### npm packages used:
   - readline-sync
